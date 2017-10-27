@@ -19,5 +19,5 @@ from .views import Response
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^form', Response.as_view(), name='form'),
+    url(r'^$', Response.as_view(), name='form'),
 ]
