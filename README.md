@@ -9,6 +9,6 @@ python3 manage.py runserver
 ```
 
 
-localhost:port   -> to display the form
-localhost:post/admin  -> admin login page, has user, answer and timestamp
+<p>localhost:port   -> to display the form<p>
+<p>localhost:post/admin  -> admin login page, has user, answer and timestamp<p>
 
